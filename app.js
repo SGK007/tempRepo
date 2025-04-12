@@ -1,1 +1,1 @@
-const __= require('load')
+console.log( 'new code')
